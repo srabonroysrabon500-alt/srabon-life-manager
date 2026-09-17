@@ -1,0 +1,6 @@
+{
+  "name": "Srabon Life Manager",
+  "description": "All-in-one personal life, expense, mess, study, routine, notebook, and student management app with offline Room database and JSON backup/restore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
